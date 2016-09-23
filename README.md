@@ -1,9 +1,9 @@
-Name:
+Name: Aanchal Narad
 
 Compilation and Run Successful:
-
+Compiled and ran successfully
 Unit Test Run Successfully:
-
+Both the test ran successfully
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
 
